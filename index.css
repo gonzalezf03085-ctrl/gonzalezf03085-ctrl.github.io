@@ -1,1 +1,33 @@
+body{
+  background-color: #ce315f;
+}
+header {
+  background-color: #af6350;
+}
 
+body {
+  background-color: #4d99b2;
+  color: white;
+}
+
+img {
+  display: block;
+  margin: 25px auto;
+}
+
+img {
+  display: block;
+  margin: 25px auto;
+  border-radius: 25px;
+}
+
+body {
+  background-color: #4d99b2;
+  color: white;
+  text-align: center;
+}
+
+h1{
+  padding: 1cm;
+  margin: 0;
+}
